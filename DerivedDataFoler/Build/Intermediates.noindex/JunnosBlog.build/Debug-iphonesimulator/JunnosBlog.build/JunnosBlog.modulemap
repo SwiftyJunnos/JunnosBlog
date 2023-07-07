@@ -1,0 +1,4 @@
+module JunnosBlog {
+header "JunnosBlog-Swift.h"
+export *
+}

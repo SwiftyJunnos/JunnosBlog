@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'JunnosBlogTests' in project 'JunnosBlog'
+➜ Explicit dependency on target 'JunnosBlog' in project 'JunnosBlog'
+Target 'JunnosBlog' in project 'JunnosBlog'
+➜ Explicit dependency on target 'JunnosBlog' in project 'JunnosBlog'
+Target 'JunnosBlog' in project 'JunnosBlog' (no dependencies)
