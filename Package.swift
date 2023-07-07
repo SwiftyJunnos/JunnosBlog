@@ -7,7 +7,9 @@ let package = Package(
     name: "JunnosBlog",
     platforms: [
       .iOS(.v15),
-      .macOS(.v13)
+      .macOS(.v12),
+      .watchOS(.v8),
+      .tvOS(.v15)
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
@@ -19,9 +21,6 @@ let package = Package(
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "JunnosBlog"),
-        .testTarget(
-            name: "JunnosBlogTests",
-            dependencies: ["JunnosBlog"]),
+            name: "JunnosBlog")
     ]
 )

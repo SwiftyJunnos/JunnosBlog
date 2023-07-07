@@ -2,9 +2,9 @@
 
 xcodebuild docbuild  \
   -scheme JunnosBlog \
-  -derivedDataPath DerivedDataFoler \
+  -derivedDataPath ~/Workspace/DerivedDataFoler \
   -destination 'platform=iOS Simulator,name=iPhone 14'
   
-find DerivedDataFoler \
+find ~/Workspace/DerivedDataFoler \
   -type d \
   -name "*.doccarchive"
