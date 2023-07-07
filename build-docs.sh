@@ -12,5 +12,7 @@ if [[ -z $doccarchive_path ]]; then
   exit 1
 fi
   
-$(xcrun --find docc) process-archive transform-for-static-hosting \
-  "$doccarchive_path" --output-path docs
+$(xcrun --find docc) process-archive \
+  transform-for-static-hosting "$doccarchive_path" \
+  --output-path docs \
+  --hosting-base-path "JunnosBlog"
