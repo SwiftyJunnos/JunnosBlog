@@ -16,6 +16,7 @@
       "hex-card-paragraph-dark": "#0f3433",
       
       "hex-highlight": "#f9bc60",
+      "hex-stroke": "#001e1d",
       
       "fill": {
         "dark": "var(--color-hex-background-dark)",
@@ -25,10 +26,14 @@
         "dark": "var(--color-hex-card-background-dark)",
         "light": "var(--color-hex-card-background-light)"
       },
+      "text": {
+        "dark": "var(--color-hex-paragraph-dark)",
+        "light": "var(--color-hex-paragraph-light)"
+      },
       
-      "nav-solid-background": "var(--color-fill)",
+      "aside-note-background": "var(--color-fill-secondary)",
       
-      "aside-note-background": "var(--color-fill-secondary)"
+      "nav-solid-background": "var(--color-fill)"
     }
   }
 }
