@@ -1,22 +1,21 @@
 {
   "theme": {
     "color": {
-      "hue-space-cadet": "223",
-      "hue-asparagus": "108",
-      "hue-silver-lake-blue": "214",
-      "hue-alabaster": "87",
-      "hue-beige": "87",
-      "hue-hunyadi-yellow": "40",
+      "hex-space-cadet": "#283044",
+      "hex-asparagus": "#69995D",
+      "hex-silver-lake-blue": "#6C91C2",
+      "hex-alabaster": "#E1E7DA",
+      "hex-ash-gray": "#B9C7A9",
+      "hex-hunyadi-yellow": "#E9B44C",
       
       "fill": {
-        "dark": "hsl(var(--color-hue-space-cadet), 26%, 21%)",
-        "light": "hsl(var(--color-hue-alabaster), 22%, 90%)"
+        "dark": "var(--color-hex-space-cadet)",
+        "light": "var(--color-hex-alabaster)"
       },
       "fill-secondary": {
-        "dark": "hsl(var(--color-hue-asparagus), 24%, 48%)",
-        "light": "hsl(var(--color-beige), 22%, 68%)"
+        "dark": "#6C8346",
+        "light": "var(--color-ash-gray)"
       },
-      
       
       "nav-solid-background": "var(--color-fill)",
       
