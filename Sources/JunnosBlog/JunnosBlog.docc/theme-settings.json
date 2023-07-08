@@ -14,7 +14,7 @@
       },
       "fill-secondary": {
         "dark": "#6C8346",
-        "light": "var(--color-ash-gray)"
+        "light": "var(--color-hex-ash-gray)"
       },
       
       "nav-solid-background": "var(--color-fill)",
