@@ -20,7 +20,7 @@
       
       "nav-solid-background": "var(--color-fill)",
       
-      "aside-note-background": "var(--color-fill-secondary")
+      "aside-note-background": "var(--color-fill-secondary)"
     }
   }
 }
