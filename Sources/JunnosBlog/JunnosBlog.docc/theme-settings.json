@@ -1,14 +1,15 @@
 {
   "theme": {
     "color": {
+      "hue-french-grey": "240",
       "hue-asparagus": "108",
       "fill": {
-        "dark": "hsl(var(--color-hue-asparagus), 24%, 48%)",
-        "light": "hsl(var(--color-hue-asparagus), 24%, 48%)"
+        "dark": "hsl(var(--color-hue-french-grey), 9%, 81%)",
+        "light": "hsl(var(--color-hue-french-grey), 9%, 81%)"
       },
       "fill-secondary": {
-        "dark": "hsl(var(--color-hue-green), 100%, 20%)",
-        "light": "hsl(var(--color-hue-green), 100%, 80%)"
+        "dark": "hsl(var(--color-hue-asparagus), 24%, 48%)",
+        "light": "hsl(var(--color-hue-asparagus), 24%, 48%)"
       },
       "nav-solid-background": "var(--color-fill)"
     }
