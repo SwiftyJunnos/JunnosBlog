@@ -1,20 +1,29 @@
 {
   "theme": {
     "color": {
-      "hex-space-cadet": "#283044",
-      "hex-asparagus": "#69995D",
-      "hex-silver-lake-blue": "#6C91C2",
-      "hex-alabaster": "#E1E7DA",
-      "hex-ash-gray": "#B9C7A9",
-      "hex-hunyadi-yellow": "#E9B44C",
+      "hex-background-light": "#abd1c6",
+      "hex-headline-light": "#001e1d",
+      "hex-paragraph-light": "#0f3433",
+      "hex-card-background-light": "#004643",
+      "hex-card-headline-light": "#fffffe",
+      "hex-card-paragraph-light": "#abd1c6",
+      
+      "hex-background-dark": "#004643",
+      "hex-headline-dark": "#fffffe",
+      "hex-paragraph-dark": "#abd1c6",
+      "hex-card-background-dark": "#e8e4e6"
+      "hex-card-headline-dark": "#001e1d",
+      "hex-card-paragraph-dark": "#0f3433",
+      
+      "hex-highlight": "#f9bc60",
       
       "fill": {
-        "dark": "var(--color-hex-space-cadet)",
-        "light": "var(--color-hex-alabaster)"
+        "dark": "var(--color-hex-background-dark)",
+        "light": "var(--color-hex-background-light)"
       },
       "fill-secondary": {
-        "dark": "#6C8346",
-        "light": "var(--color-hex-ash-gray)"
+        "dark": "var(--color-hex-card-background-dark)",
+        "light": "var(--color-hex-card-background-light)"
       },
       
       "nav-solid-background": "var(--color-fill)",
