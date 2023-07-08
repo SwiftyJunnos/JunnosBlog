@@ -42,8 +42,6 @@
       "button-border": "var(--color-hex-stroke)",
       "button-text": "var(--color-hex-button-text)",
       
-      "nav-solid-background": "var(--color-fill)",
-      
       "eyebrow": {
         "dark": "var(--color-hex-headline-dark)",
         "light": "var(--color-hex-headline-light)"
