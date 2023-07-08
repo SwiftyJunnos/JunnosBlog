@@ -32,12 +32,14 @@
       },
       
       "aside-note": {
-        "dark": "var(--color-hex-card-paragraph-dark)",
-        "light": "var(--color-hex-card-paragraph-light)"
+        "dark": "var(--color-hex-card-headline-dark)",
+        "light": "var(--color-hex-card-headline-light)"
       },
       "aside-note-background": "var(--color-fill-secondary)",
       
-      "nav-solid-background": "var(--color-fill)"
+      "nav-solid-background": "var(--color-fill)",
+      
+      "link": "var(--color-hex-highlight)"
     }
   }
 }
