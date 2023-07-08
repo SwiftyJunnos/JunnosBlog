@@ -3,8 +3,8 @@
     "color": {
       "hue-asparagus": "108",
       "fill": {
-        "dark": "hsl(var(--color-hue-asparagus), 39%, 60%)",
-        "light": "hsl(var(--color-hue-asparagus), 39%, 60%)"
+        "dark": "hsl(var(--color-hue-asparagus), 24%, 48%)",
+        "light": "hsl(var(--color-hue-asparagus), 24%, 48%)"
       },
       "fill-secondary": {
         "dark": "hsl(var(--color-hue-green), 100%, 20%)",
