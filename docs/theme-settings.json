@@ -1,19 +1,19 @@
 {
   "theme": {
     "color": {
-      "hex-background-light": "#abd1c6",
-      "hex-headline-light": "#001e1d",
-      "hex-paragraph-light": "#0f3433",
-      "hex-card-background-light": "#004643",
-      "hex-card-headline-light": "#fffffe",
-      "hex-card-paragraph-light": "#abd1c6",
-      
       "hex-background-dark": "#004643",
       "hex-headline-dark": "#fffffe",
       "hex-paragraph-dark": "#abd1c6",
       "hex-card-background-dark": "#e8e4e6",
       "hex-card-headline-dark": "#001e1d",
       "hex-card-paragraph-dark": "#0f3433",
+      
+      "hex-background-light": "#abd1c6",
+      "hex-headline-light": "#001e1d",
+      "hex-paragraph-light": "#0f3433",
+      "hex-card-background-light": "#004643",
+      "hex-card-headline-light": "#fffffe",
+      "hex-card-paragraph-light": "#abd1c6",
       
       "hex-highlight": "#f9bc60",
       "hex-stroke": "#001e1d",
@@ -31,6 +31,10 @@
         "light": "var(--color-hex-paragraph-light)"
       },
       
+      "aside-note": {
+        "dark": "var(--color-hex-card-paragraph-dark)",
+        "light": "var(--color-hex-card-paragraph-light)"
+      },
       "aside-note-background": "var(--color-fill-secondary)",
       
       "nav-solid-background": "var(--color-fill)"
