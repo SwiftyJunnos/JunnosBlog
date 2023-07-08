@@ -5,7 +5,9 @@
       
       "fill": {
         "light": "hsl(var(--color-asparagus), 100%, 100%)"
-      }
+      },
+      
+      "nav-solid-background": "var(--color-fill)"
     }
   }
 }
