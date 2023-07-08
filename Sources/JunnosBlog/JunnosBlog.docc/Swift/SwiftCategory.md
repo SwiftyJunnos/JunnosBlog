@@ -17,6 +17,10 @@ This is Swift.
 
 ### Posts
 
+- <doc:10.ViewControllerLifeCycle>
+- <doc:09.StructClass>
+- <doc:08.ARC>
+- <doc:07.Coordinator>
 - <doc:06.MVVM_CleanArchitecture02>
 - <doc:05.MVVM_CleanArchitecture01>
 - <doc:04.RxSwift>
