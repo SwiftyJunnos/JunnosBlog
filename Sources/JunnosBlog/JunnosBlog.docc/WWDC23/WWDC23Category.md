@@ -8,6 +8,6 @@ Quick looks for WWDC23.
 
 ## Topics
 
-### Section header
+### Posts
 
 - <doc:Test>

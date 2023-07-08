@@ -3,10 +3,12 @@
 Welcome to Junnos' blog.
 
 @Metadata {
-  @PageColor(blue)
+  @PageKind(sampleCode)
 }
 
-## Posts
+## Topics
+
+---
 
 ### WWDC23
 
