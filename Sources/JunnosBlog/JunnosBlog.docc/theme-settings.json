@@ -1,10 +1,11 @@
 {
   "theme": {
     "color": {
-      "standard-green": "#83ac38"
-    },
-    "typography": {
-      "html-font": "serif"
+      "asparagus": "#69995D",
+      
+      "fill": {
+        "light": "hsl(var(--color-asparagus), 100%, 100%)"
+      }
     }
   }
 }
