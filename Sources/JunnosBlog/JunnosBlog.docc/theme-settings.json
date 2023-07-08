@@ -44,6 +44,14 @@
       
       "nav-solid-background": "var(--color-fill)",
       
+      "eyebrow": {
+        "dark": "var(--color-hex-headline-dark)",
+        "light": "var(--color-hex-headline-light)"
+      },
+      "header-text": {
+        "dark": "var(--color-hex-headline-dark)",
+        "light": "var(--color-hex-headline-light)"
+      },
       "link": "var(--color-hex-highlight)"
     }
   }
