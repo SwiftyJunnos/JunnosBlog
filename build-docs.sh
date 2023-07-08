@@ -14,5 +14,4 @@ fi
   
 $(xcrun --find docc) process-archive \
   transform-for-static-hosting "$doccarchive_path" \
-  --output-path docs \
-  --hosting-base-path "/JunnosBlog/documentation/junnosblog"
+  --output-path docs
