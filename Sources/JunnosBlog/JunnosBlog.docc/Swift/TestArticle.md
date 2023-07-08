@@ -9,3 +9,7 @@ Welcome to my blog
 ### Section header
 
 What should I write about?
+
+```swift
+print("Hello World!")
+```

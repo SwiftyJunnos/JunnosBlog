@@ -18,11 +18,11 @@
 
 @Row(numberOfColumns: 5) {
   @Column(size: 1) {
-    [GitHub](https://github.com/SwiftyJunnos)
+    **[GitHub](https://github.com/SwiftyJunnos)**
   }
   
   @Column {
-    [Blog](https://nomatterjun.github.io)
+    **[Blog](https://nomatterjun.github.io)**
   }
 }
 

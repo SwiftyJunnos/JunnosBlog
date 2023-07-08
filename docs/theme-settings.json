@@ -17,6 +17,7 @@
       
       "hex-highlight": "#f9bc60",
       "hex-stroke": "#001e1d",
+      "hex-button-text": "#001e1d",
       
       "fill": {
         "dark": "var(--color-hex-background-dark)",
@@ -36,6 +37,10 @@
         "light": "var(--color-hex-card-headline-light)"
       },
       "aside-note-background": "var(--color-fill-secondary)",
+      
+      "button-background": "var(--color-hex-height)",
+      "button-border": "var(--color-hex-stroke)",
+      "button-text": "var(--color-hex-button-text)",
       
       "nav-solid-background": "var(--color-fill)",
       
