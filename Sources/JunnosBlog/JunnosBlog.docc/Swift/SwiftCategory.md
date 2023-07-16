@@ -17,6 +17,7 @@ This is Swift.
 
 ### Posts
 
+- <doc:32.Regex01>
 - <doc:10.ViewControllerLifeCycle>
 - <doc:09.StructClass>
 - <doc:08.ARC>
