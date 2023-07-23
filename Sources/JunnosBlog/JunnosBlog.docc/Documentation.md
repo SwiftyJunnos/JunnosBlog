@@ -7,7 +7,6 @@
 
 @Metadata {
   @DisplayName(아요에스위프트)
-  @PageColor(gray)
   @PageKind(article)
 }
 

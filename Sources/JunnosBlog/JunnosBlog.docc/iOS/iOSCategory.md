@@ -3,7 +3,6 @@
 @Metadata {
   @PageImage(purpose: card, source: "iOS", alt: "iOS")
   @PageKind(article)
-  @TitleHeading("Posts")
 }
 
 ```swift

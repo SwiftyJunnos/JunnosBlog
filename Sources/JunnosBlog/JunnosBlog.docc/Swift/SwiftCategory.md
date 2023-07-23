@@ -10,7 +10,6 @@ This is Swift.
 @Metadata {
   @PageImage(purpose: card, source: "Swift", alt: "Swift")
   @PageKind(article)
-  @TitleHeading("Posts")
 }
 
 ## Topics
